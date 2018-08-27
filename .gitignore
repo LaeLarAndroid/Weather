@@ -130,6 +130,7 @@ obj/
 .idea/sqlDataSources.xml
 .idea/dynamic.xml
 .idea/uiDesigner.xml
+.idea/sonarIssues.xml
 
 # OS-specific files
 .DS_Store
